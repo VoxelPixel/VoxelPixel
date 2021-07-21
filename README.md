@@ -1,5 +1,4 @@
 ### Hi, 👋
-I am curious about curiousity
 
 <p align="center">
 <!--  Commit Status  -->
