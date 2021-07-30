@@ -7,12 +7,15 @@
   </a>  
 </p>
 
-<p align="center">
+<!--
+<p align="center">-->
 <!-- Streak   -->
+<!--
   <a href="https://git.io/streak-stats">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=voxelpixel" alt="My github stats" />
   </a>  
 </p>
+-->
 
 <!--
 **VoxelPixel/VoxelPixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
